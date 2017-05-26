@@ -15,17 +15,17 @@
         "search": {
             "maxIndexSize": 10000
         },
-		"donate": {
-            "alipay": "http://weilin.me/ol3-primer/img/5rmb.jpg",
-            "wechat": "http://weilin.me/ol3-primer/img/weixin-5rmb.png",
-			"button": "打赏"
+	"donate": {
+            "alipay": "",
+            "wechat": "",
+	    "button": ""
         },
         "duoshuo": {
             "short_name": "ol3-primer",
             "theme": "default"
         },
         "github-buttons": {
-          "repo": "anzhihun/OpenLayers3Primer",
+          "repo": "liumingmusic/OpenLayers3Primer",
           "types": [
             "star",
             "watch"
@@ -33,16 +33,16 @@
           "size": "small"
         },
         "github": {
-            "url": "https://github.com/anzhihun/OpenLayers3Primer"
+            "url": "https://github.com/liumingmusic/OpenLayers3Primer"
         },
         "sharing": {
               "facebook": false,
-              "twitter": true,
+              "twitter": false,
               "google": false,
-              "weibo": true,
+              "weibo": false,
               "instapaper": false,
               "vk": false,
-              "all": ["weibo", "facebook", "google", "twitter"]
+              "all": []
           }
     }
 }
